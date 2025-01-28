@@ -3,8 +3,8 @@ permalink: /
 title: "Amsal Moiz - Portfolio"
 author_profile: true
 redirect_from: 
-  - /portfolio/
-  - /portfolio.html
+  - /education/
+  - /education.html
 ---
 
 ## Will update soon

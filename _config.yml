@@ -21,9 +21,9 @@ repository               : "amsalmoiz/amsalmoiz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Amsal Moiz"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "CS Student at the University of Houston."
   location         : "Houston, Texas, USA"
   employer         : "University of Houston"

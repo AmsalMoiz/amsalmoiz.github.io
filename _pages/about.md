@@ -19,7 +19,7 @@ I am a Computer Science student at the University of Houston with a strong inter
 
 - **Resume**: A downloadable PDF of my resume.
 - **Projects**: A collection of my academic and personal projects.
-- **Research & Publications**: Details about my ongoing research and any publications I may have.
+- **Socials**: Ways you can contact me.
 
 Feel free to explore and get in touch!
 
